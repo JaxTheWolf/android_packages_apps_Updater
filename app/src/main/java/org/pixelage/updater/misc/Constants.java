@@ -39,7 +39,6 @@ public final class Constants {
     public static final String UNCRYPT_FILE_EXT = ".uncrypt";
 
     public static final String PROP_AB_DEVICE = "ro.build.ab_update";
-    public static final String PROP_ALLOW_MAJOR_UPGRADES = "pixelage.updater.allow_major_upgrades";
     public static final String PROP_BUILD_DATE = "ro.build.date.utc";
     public static final String PROP_BUILD_VERSION = "ro.pixelage.build.version";
     public static final String PROP_DEVICE = "ro.pixelage.device";
